@@ -1,0 +1,14 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "credit",
+      "credit.c"
+    ],
+    "directory": "/Users/ariecreson/Documents/projects/credit-",
+    "file": "/Users/ariecreson/Documents/projects/credit-/credit.c",
+    "output": "/Users/ariecreson/Documents/projects/credit-/credit"
+  }
+]
